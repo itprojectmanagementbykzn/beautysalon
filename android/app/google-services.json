@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "926809282375",
+    "project_id": "kzn-beauty-salon",
+    "storage_bucket": "kzn-beauty-salon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926809282375:android:1be2af5ce277bbe3d0de62",
+        "android_client_info": {
+          "package_name": "com.kzn.beautysalon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926809282375-e5fnrjedcimcj270dugianml29ovbo37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.beautysalon",
+            "certificate_hash": "af4d0b5361a2a297b8e64315787e0db3da16aaf9"
+          }
+        },
+        {
+          "client_id": "926809282375-n062vdh2390brmhbsl553002m3bd4agi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9o39nykR3bX3mYtVYuPRzPw6EY62su0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926809282375-n062vdh2390brmhbsl553002m3bd4agi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
